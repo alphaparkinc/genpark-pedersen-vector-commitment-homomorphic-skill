@@ -1,0 +1,13 @@
+{
+  "name": "genpark-pedersen-vector-commitment-homomorphic-skill",
+  "version": "1.0.0",
+  "description": "Information-theoretically hiding and computationally binding Pedersen vector commitments with additive homomorphic properties over prime fields.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "cryptography",
+    "pedersen-commitment",
+    "vector-commitment",
+    "homomorphic-encryption"
+  ]
+}
